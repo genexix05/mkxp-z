@@ -1,0 +1,840 @@
+﻿[000]
+WildVictoryME=Victory.ogg
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+BicycleBGM=Airship.mid
+SurfBGM=Silla.ogg
+WildBattleBGM=Combate.ogg
+TrainerBattleBGM=CombateEntrenador.ogg
+TrainerVictoryME=Victory.ogg
+Home=22,13,32,8
+[001]
+# Intro
+[002]
+# Mirador
+SnapEdges=true
+BattleBack=Field
+Outdoor=true
+[003]
+# Ruta 1
+ShowArea=true
+SnapEdges=true
+MapPosition=0,14,12
+BattleBack=Field
+Outdoor=true
+[004]
+# Lago
+SnapEdges=true
+MapPosition=0,15,11
+BattleBack=Field
+Outdoor=true
+[005]
+# Pueblo Berilo - Academia
+SnapEdges=true
+MapPosition=0,12,14
+BattleBack=Field
+Outdoor=true
+[006]
+# Bosque Lucerna
+ShowArea=true
+SnapEdges=true
+MapPosition=0,16,14
+BattleBack=Bosque
+[007]
+# Lago del Bosque Lucerna
+SnapEdges=true
+BattleBack=Bosque
+[008]
+# Ruta 2
+ShowArea=true
+SnapEdges=true
+MapPosition=0,15,14
+BattleBack=Field
+Outdoor=true
+[009]
+# Laboratorio de Haya
+BattleBack=Lab
+[010]
+# Pueblo Berilo
+ShowArea=true
+SnapEdges=true
+MapPosition=0,14,14
+Outdoor=true
+[012]
+# Profundidades del Bosque Lucerna
+SnapEdges=true
+BattleBack=Bosque
+[014]
+# Ciudad Cornalina
+ShowArea=true
+SnapEdges=true
+MapPosition=0,18,12
+Outdoor=true
+[015]
+# Ruta 4
+ShowArea=true
+SnapEdges=true
+MapPosition=0,21,12
+BattleBack=Field
+Outdoor=true
+[016]
+# Metis Labs P-4
+BattleBack=Metis
+[017]
+# Plataforma Petrolífera
+SnapEdges=true
+[018]
+# Metis Labs P-1
+BattleBack=Metis
+[020]
+# Ruinas
+SnapEdges=true
+[023]
+# Academia PB
+BattleBack=Indoor
+[024]
+# Ruta 3
+ShowArea=true
+SnapEdges=true
+MapPosition=0,18,14
+BattleBack=Field
+Outdoor=true
+[025]
+# Academia P1
+BattleBack=Indoor
+[027]
+# Sótano - Laboratorio
+BattleBack=Indoor2
+[028]
+# Sótano - Profundidades
+BattleBack=Indoor2
+[032]
+# Pueblo Jaspe
+ShowArea=true
+SnapEdges=true
+MapPosition=0,12,11
+Outdoor=true
+[033]
+# Aula de Música
+BattleBack=Indoor
+[034]
+# Mina de Adamantita
+ShowArea=true
+SnapEdges=true
+BattleBack=Sableye1
+[035]
+# Guarida de Sableyes
+SnapEdges=true
+BattleBack=Sableye2
+[036]
+# Cueva Robina
+ShowArea=true
+BattleBack=Cueva
+[041]
+# Laberinto
+BattleBack=Bosque
+[042]
+# Granja
+ShowArea=true
+SnapEdges=true
+MapPosition=0,20,14
+BattleBack=Field
+Outdoor=true
+[046]
+# Central Eléctrica
+BattleBack=Indoor
+[056]
+# Metis Labs P-3
+BattleBack=Metis
+[060]
+# Ruta 15
+ShowArea=true
+SnapEdges=true
+MapPosition=0,14,16
+BattleBack=Field
+Outdoor=true
+[063]
+# Pueblo Lapis
+SnapEdges=true
+MapPosition=0,14,3
+BattleBack=Playa
+Outdoor=true
+[064]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[065]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[066]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[067]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[068]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[069]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[070]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[071]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[072]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[073]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[074]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[075]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[076]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[077]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[078]
+# Gimnasio de Ciudad Cornalina
+BattleBack=Colmena
+[081]
+# Monte Kiritsu
+SafariMap=false
+SnapEdges=true
+MapPosition=0,22,11
+BattleBack=kiritsu
+Outdoor=true
+[082]
+# Academia PB (Noche)
+Outdoor=true
+[083]
+# Academia P1 (Noche)
+Outdoor=true
+[084]
+# Enfermería (Noche)
+Outdoor=true
+[085]
+# Aula de Música (Noche)
+Outdoor=true
+[086]
+# Sala del Director (Noche)
+Outdoor=true
+[087]
+# Sótano (Noche)
+Outdoor=true
+[088]
+# Cueva Robina
+SnapEdges=true
+BattleBack=Cueva
+[089]
+# Cueva Robina
+SnapEdges=true
+BattleBack=Cueva
+[092]
+# Ciudad Jade
+SnapEdges=true
+MapPosition=0,24,12
+BattleBack=Jade
+Outdoor=true
+[096]
+# Ciudad Anatasa
+SnapEdges=true
+MapPosition=0,15,8
+BattleBack=Nieve
+Weather=Snow,100
+Outdoor=true
+[098]
+# Fábrica Rocket
+BattleBack=Indoor
+[099]
+# Fábrica Rocket
+BattleBack=Indoor
+[100]
+# Ciudad Cuarza
+SnapEdges=true
+MapPosition=0,21,3
+Outdoor=true
+[101]
+# Pueblo Garnet
+MapPosition=0,21,9
+[102]
+# Pueblo Lapis (Noche)
+SnapEdges=true
+Outdoor=true
+[108]
+# Arena Batalla TESTING
+BattleBack=Indoor
+[110]
+# Casa (Ruta 9)
+Outdoor=false
+[113]
+# Teatro Jade
+BattleBack=Indoor
+[114]
+# Gimnasio de Ciudad Jade
+BattleBack=baile
+[116]
+# Gimnasio de Ciudad Cuarza
+BattleBack=Piscina
+[117]
+# Gimnasio de Ciudad Cuarza
+BattleBack=Piscina
+[118]
+# Gimnasio Ágata
+BattleBack=Indoor2
+[122]
+# Gimnasio Ágata
+BattleBack=Indoor2
+[123]
+# Gimnasio Ágata
+BattleBack=Indoor2
+[125]
+# Mundo Distorsión
+SnapEdges=true
+[127]
+# Ruta 13
+SnapEdges=true
+Weather=Rain,100
+Outdoor=false
+[129]
+# Campo Níveo
+SnapEdges=true
+Weather=Blizzard,100
+Outdoor=true
+[130]
+# Santuario Pueblo Florita
+SnapEdges=true
+BattleBack=Selva
+Outdoor=false
+[131]
+# Auditorio
+Outdoor=false
+[133]
+# Metis Labs P-2
+BattleBack=Metis
+[135]
+# Ciudad Ágata
+ShowArea=true
+SnapEdges=true
+MapPosition=0,9,5
+Outdoor=true
+[137]
+# Templo Uxie
+BattleBack=TemploMesprit
+[138]
+# Pueblo Amberino
+ShowArea=true
+SnapEdges=true
+MapPosition=0,6,9
+Weather=Sandstorm,100
+Outdoor=true
+[139]
+# Ruta 12
+SnapEdges=true
+MapPosition=0,8,8
+BattleBack=Desierto
+Weather=Sandstorm,100
+Outdoor=true
+[140]
+# Oasis
+SnapEdges=true
+BattleBack=
+Weather=Sandstorm,100
+Outdoor=true
+[141]
+# Ruta 7
+SnapEdges=true
+MapPosition=0,18,3
+BattleBack=Playa
+Outdoor=true
+[144]
+# Mar Abierto
+SnapEdges=true
+BattleBack=Barco
+Outdoor=true
+[146]
+# Mar abierto
+SnapEdges=true
+Outdoor=true
+[147]
+# Gruta Helada
+MapPosition=0,13,8
+BattleBack=CuevaHielo
+[148]
+# Gruta Helada
+MapPosition=0,13,8
+BattleBack=CuevaHielo2
+Outdoor=false
+[149]
+# Isla Desierta
+SnapEdges=true
+Outdoor=true
+[151]
+# Ruinas
+BattleBack=TemploMesprit
+[152]
+# Mar Abierto (Edward)
+BattleBack=Barco
+Outdoor=true
+[153]
+# Ruta 10
+SnapEdges=true
+MapPosition=0,14,8
+BattleBack=Nieve
+Weather=Snow,100
+Outdoor=true
+[154]
+# Centro Pokémon
+SnapEdges=false
+[155]
+# Cueva Electrubí
+MapPosition=0,21,11
+BattleBack=Sableye2
+[156]
+# Lab Sala Final
+BattleBack=Lab1
+[157]
+# Alcantarillado
+BattleBack=Indoor2
+[158]
+# Ruta 6
+SnapEdges=true
+MapPosition=0,22,6
+Outdoor=true
+[162]
+# Senda Nebulosa
+SnapEdges=true
+MapPosition=0,21,9
+Outdoor=true
+[163]
+# Ruta 5
+SnapEdges=true
+MapPosition=0,22,12
+BattleBack=otonyo
+Outdoor=true
+[164]
+# Bosque Jade
+SnapEdges=true
+MapPosition=0,25,11
+BattleBack=Bambu
+[175]
+# Ruta 6
+SnapEdges=true
+MapPosition=0,21,6
+Outdoor=true
+[176]
+# Ruta 8
+SnapEdges=true
+MapPosition=0,12,5
+BattleBack=Playa
+Outdoor=true
+[177]
+# Ruta 9
+SnapEdges=true
+MapPosition=0,12,8
+Outdoor=true
+[178]
+# Ruta 11
+SnapEdges=true
+BattleBack=Nieve
+Weather=Snow,100
+Outdoor=true
+[180]
+# Profundidades Bosque Níveo
+SnapEdges=true
+Weather=Snow,100
+Outdoor=true
+[181]
+# Profundidades Bosque Níveo
+SnapEdges=true
+Weather=Blizzard,100
+Outdoor=true
+[182]
+# Alcantarillado
+SnapEdges=false
+BattleBack=Indoor2
+[183]
+# Templo Azelf
+SnapEdges=true
+BattleBack=TemploAzelf
+[185]
+# Templo Mesprit
+BattleBack=TemploMesprit
+[187]
+# Alcantarillado
+[189]
+# Alcantarillado
+BattleBack=Indoor2
+[190]
+# Gruta Lapis
+BattleBack=CuevaHielo
+[192]
+# Ruinas
+BattleBack=TemploMesprit
+[193]
+# Ruinas
+BattleBack=TemploMesprit
+[196]
+# Centro Pokémon
+Outdoor=false
+[198]
+# Arena Batalla
+BattleBack=Indoor
+[201]
+# Mansión Abandonada
+BattleBack=Indoor2
+[204]
+# Monte Plateado
+Weather=Snow,100
+[213]
+# Ciudad Amatista
+ShowArea=true
+SnapEdges=true
+MapPosition=0,10,16
+Weather=Rain,20
+Outdoor=true
+[219]
+# Faro PB
+BattleBack=Indoor
+[221]
+# Faro P1
+BattleBack=Indoor
+[222]
+# Faro P2
+BattleBack=Indoor
+[223]
+# Faro P3
+BattleBack=Indoor
+[224]
+# Faro P4
+BattleBack=Indoor
+[236]
+# Metro
+BattleBack=Indoor
+[238]
+# Gimnasio Anatasa
+BattleBack=Indoor
+[239]
+# Gimnasio Anatasa
+BattleBack=Indoor
+[240]
+# Gimnasio Anatasa
+BattleBack=Indoor
+[241]
+# Gimnasio Anatasa
+BattleBack=Indoor
+[252]
+# Gimnasio Amberino
+Weather=Sandstorm,100
+[253]
+# Gimnasio Amberino
+BattleBack=Indoor
+[254]
+# Gimnasio Amberino
+BattleBack=Indoor
+[255]
+# Ruta 18
+SnapEdges=true
+MapPosition=0,4,9
+BattleBack=Desierto
+Weather=Sandstorm,100
+Outdoor=true
+[264]
+# Pueblo Florita
+ShowArea=true
+SnapEdges=true
+MapPosition=0,7,14
+BattleBack=Selva
+Weather=Rain,100
+Outdoor=false
+[265]
+# Puente Amatista
+SnapEdges=true
+MapPosition=0,12,16
+BattleBack=Puente
+Weather=Rain,100
+Outdoor=true
+[266]
+# Ruta 13
+SafariMap=false
+SnapEdges=true
+MapPosition=0,6,11
+BattleBack=kiritsu
+Outdoor=true
+[267]
+# Escena
+SnapEdges=true
+Outdoor=true
+[269]
+# Zona Montañosa
+SnapEdges=true
+BattleBack=FinalRobotNothing
+Weather=Storm,100
+Outdoor=false
+[270]
+# Volcán PB
+BattleBack=Volcan
+[271]
+# Volcán
+BattleBack=Volcan
+[272]
+# Ciudad Rodocros
+ShowArea=true
+SnapEdges=true
+MapPosition=0,18,18
+BattleBack=Playa
+Outdoor=true
+[273]
+# Gimnasio Ciudad Amatista
+BattleBack=Indoor
+[274]
+# Fondo Submarino
+SnapEdges=true
+BattleBack=Submarino
+[275]
+# Fondo Submarino
+SnapEdges=true
+BattleBack=Submarino
+[276]
+# Fondo Submarino
+SnapEdges=true
+BattleBack=Submarino
+[277]
+# Barco Hundido
+SnapEdges=true
+[285]
+# Sótano Tienda
+BattleBack=Indoor2
+[287]
+# Gimnasio de Ciudad Rodocros
+BattleBack=Indoor
+[289]
+# Salita de Bea
+SnapEdges=true
+BattleBack=Bea
+Outdoor=false
+[290]
+# Salita de Natasha
+SafariMap=false
+SnapEdges=true
+BattleBack=Natasha
+[291]
+# Salita Aster
+SnapEdges=true
+BattleBack=Aster
+[292]
+# Salita Edward
+SnapEdges=true
+BattleBack=Edward
+Outdoor=false
+[295]
+# Sara Salita
+SnapEdges=true
+BattleBack=Sara
+Outdoor=false
+[296]
+# Isla ???
+SnapEdges=true
+Outdoor=false
+[298]
+# Isla ???
+SnapEdges=true
+BattleBack=Playa
+Outdoor=false
+[300]
+# Volcán
+SnapEdges=true
+Outdoor=false
+[301]
+# Cima Volcán
+SnapEdges=true
+BattleBack=Volcan
+Outdoor=false
+[302]
+# Ladera Volcán
+SnapEdges=true
+BattleBack=Volcan
+Outdoor=false
+[303]
+# Lab PB
+SafariMap=false
+SnapEdges=true
+BattleBack=Lab1
+[304]
+# Ruta 17
+SnapEdges=true
+BattleBack=Chungo2
+Weather=Rain,100
+Outdoor=true
+[305]
+# Ruta 16
+SnapEdges=true
+MapPosition=0,18,15
+Outdoor=true
+[306]
+# Ruta 17
+SnapEdges=true
+BattleBack=Chungo2
+Weather=Rain,100
+Outdoor=true
+[307]
+# Ruta 14
+SnapEdges=true
+MapPosition=0,7,16
+BattleBack=Selva
+Weather=Rain,100
+Outdoor=false
+[308]
+# Ruta 19
+SnapEdges=true
+MapPosition=0,2,9
+BattleBack=Playa
+Outdoor=true
+[309]
+# Lab PB
+WildBattleBGM=Labfinal2.ogg
+SnapEdges=true
+BattleBack=Lab1
+[310]
+# Lab PB
+SnapEdges=true
+BattleBack=Lab1
+[311]
+# Lab P-1
+[312]
+# Lab P-1
+SnapEdges=true
+BattleBack=Lab1
+[313]
+# Lab P-1
+SnapEdges=true
+BattleBack=Lab1
+[314]
+# Lab P1
+SnapEdges=true
+BattleBack=Lab1
+[315]
+# Lab P1
+SnapEdges=true
+BattleBack=Lab1
+[316]
+# Lab P-2
+BattleBack=Lab1
+[323]
+# Ruta 19
+SnapEdges=true
+MapPosition=0,1,8
+BattleBack=Playa
+Outdoor=true
+[324]
+# Liga Pokémon
+SnapEdges=true
+Outdoor=true
+[325]
+# Ruta 15
+SnapEdges=true
+MapPosition=0,13,16
+Outdoor=true
+[331]
+# Ciudad Amatista
+SnapEdges=true
+Weather=Rain,20
+Outdoor=true
+[333]
+# Ruta 13
+SnapEdges=true
+BattleBack=Desierto
+Weather=Sandstorm,100
+Outdoor=true
+[339]
+# Mina de Adamantita
+BattleBack=Sableye1
+[348]
+# Academia PB
+BattleBack=Indoorinv
+[354]
+# MAP354
+SnapEdges=true
+BattleBack=Chungo
+Weather=Rain,100
+Outdoor=false
+[355]
+# Jeremiah Escena
+SnapEdges=true
+Weather=Rain,100
+Outdoor=true
+[356]
+# Lab Sala Final
+BattleBack=Lab1
+Weather=Rain,100
+[357]
+# Ciudad Cuarza
+SnapEdges=true
+Outdoor=true
+[358]
+# Escena Teresa
+SnapEdges=true
+Weather=Rain,100
+Outdoor=true
+[359]
+# Ruta 11
+SnapEdges=true
+Weather=Snow,100
+Outdoor=true
+[360]
+# Escena Sumarina
+SnapEdges=true
+BattleBack=Submarino
+[361]
+# Habitación Castillo Batalla
+BattleBack=Negro
+[362]
+# Zona Montañosa
+SnapEdges=true
+BattleBack=Chungo
+Weather=Storm,100
+Outdoor=false
+[368]
+# Zona Montañosa
+SnapEdges=true
+BattleBack=Chungo
+Weather=Storm,100
+Outdoor=false
+[369]
+# Zona Montañosa
+SnapEdges=true
+Weather=Storm,100
+Outdoor=false
+[370]
+# Zona Montañosa
+SnapEdges=true
+BattleBack=Chungo
+Weather=Storm,100
+[371]
+# Estrella
+SnapEdges=true
+Outdoor=false
+[372]
+# Zona Montañosa
+SnapEdges=true
+BattleBack=FinalRobotNothing
+Outdoor=true
+[384]
+# Sala Estrella
+SnapEdges=true
+[392]
+# Lugar secreto
+SnapEdges=true
+Weather=Sandstorm,100
+Outdoor=true
+[393]
+# Plataforma Petrolífera
+SnapEdges=true
+BattleBack=Metis

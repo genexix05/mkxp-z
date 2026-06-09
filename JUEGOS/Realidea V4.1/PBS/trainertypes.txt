@@ -1,0 +1,118 @@
+﻿0,POKEMONTRAINER_Red,Entrenador,60,,,,Male,,100
+1,POKEMONTRAINER_Leaf,Entrenadora,60,,,,Female,,100
+2,POKEMONTRAINER_Brendan,Entrenador,60,,,,Male,,100
+3,POKEMONTRAINER_May,Entrenadora,60,,,,Female,,100
+4,SHOTA,Joven,32,,,,Male,,100
+5,MONTANERA,Montañera,32,,,,Female,,100
+6,AROMALADY,Chica Aroma,32,,,,Female,,100
+7,ESTUDIANTE,Estudiante,32,,,,Male,,100
+8,ESTUDIANTA2,Estudiante,32,,,,Female,,100
+9,ESTUDIANTA,Estudiante,32,,,,Female,,100
+10,CHICA,Chica,32,,,,Female,,100
+11,CHAVAL,Chaval,32,,,,Male,,100
+12,SENOR,Señor,32,,,,Male,,100
+13,CRIAPOKEMON,Criapokémon,32,,,,Male,,100
+14,MOCHILERO,Mochilero,32,,,,Male,,100
+15,RICO,Rico,60,,,,Male,,100
+16,CRIAPOKEMON2,Criapokémon,32,,,,Male,,100
+17,OWEN1,Entrenador,60,vsFatimaDante,,,Male,,100
+18,OWEN2,Entrenador,60,vsFatimaDante,,,Male,,100
+19,OWENPARTNER,Entrenador,60,,,,Male,,100
+20,DANTE,Entrenador,60,,,,Male,,100
+21,METISO,Recluta Metis,32,vsMalos,,,Male,,100
+22,METISA,Recluta Metis,32,vsMalos,,,Female,,100
+23,SENO,Seño,32,,,,Female,,100
+24,SANDIEGO,Ranger,32,,,,Female,,100
+25,RANGER,Ranger,32,,,,Male,,100
+26,NENE,Nene,32,,,,Male,,100
+27,NENA,Nena,32,,,,Female,,100
+28,LUCHADORA,Luchadora,32,,,,Female,,100
+29,CIENTIFICO,Científico,32,,,,Male,,100
+30,CIENTIFICA,Científica,32,,,,Female,,100
+31,LENADOR,Leñador,32,,,,Male,,100
+32,BANDIDO,Bandido Decidueye,32,,,,Male,,100
+33,LIDER,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+34,CAMUS,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+35,LILLIANA,Entrenadora,60,Lilliana,,,Male,,100
+36,NADADORA,Nadadora,32,,,,Female,,100
+37,MENTO,Alto Mando,60,MENTO,LiderVictoria,,Male,,100
+38,CINTIA,Campeona,60,Cintia,LiderVictoria,,Female,,100
+39,POKEMONRANGER_M,Pokémon Ranger,32,,,,Male,,100
+40,POKEMONRANGER_F,Pokémon Ranger,32,,,,Female,,100
+41,PSYCHIC_M,Médium,32,,,,Male,,100
+42,PSYCHIC_F,Médium,32,,,,Female,,100
+43,PIRATA,Pirata,32,,,,Male,32,100
+44,TERESA,Metis Corp,60,TeresaBattle,LiderVictoria,,Female,,100
+45,SWIMMER2_M,Nadador,32,,,,Male,32,100
+46,SWIMMER2_F,Nadadora,32,,,,Female,32,100
+47,TUBER_M,Playero,4,,,,Male,16,100
+48,TUBER_F,Playera,4,,,,Female,16,100
+49,TUBER2_M,Playero,4,,,,Male,16,100
+50,TUBER2_F,Playera,4,,,,Female,16,100
+51,COOLCOUPLE,Pareja Guay,72,,,,Mixed,48,100
+52,MEDIUM,Médium,32,,,,Male,,100
+53,SISANDBRO,Hermanos,16,,,,Mixed,48,100
+54,TWINS,Gemelas,24,,,,Mixed,,100
+55,YOUNGCOUPLE,Pareja Joven,60,,,,Mixed,32,100
+56,TEAMROCKET_M,Soldado Equipo,32,,,,Female,,100
+57,JEREMIAH,Científico,60,vsJeremiah,,,Male,,100
+58,SILVER,Entrenador,60,Silver,,,Male,,100
+59,KENN,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+60,AIMI,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Female,,100
+61,ALBA,Entrenadora,60,alba,,,Female,,100
+62,ENTRENADOR2,Entrenador,60,vsFatimaDante,,,Male,,100
+63,ENTRENADORA2,Entrenadora,60,vsFatimaDante,,,Female,,100
+64,SEXMANIAC,Fantasmaníaca,32,,,,Female,,100
+65,FANTASMA,Fantasma,32,Felis,,,Female,,100
+66,LEADER_Giovanni,Líder Gimnasio,60,gymleader,,,Male,,100
+67,ELITEFOUR_Lorelei,Alto Mando,60,elite,,,Female,,100
+68,BREAKDANCER,Breakdancer,60,,,,Male,,100
+69,SENORITA,Señorita,32,,,,Female,,100
+70,KARATEKA,Karateka,32,,,,Male,,100
+71,TRABAJADOR,Trabajador,32,,,,Male,,100
+72,MONTANERO,Montañero,32,,,,Male,,100
+73,DOUGLAS,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+74,CIARA,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Female,,100
+75,MESPRIT,???,60,batalla_deidad,LiderVictoria,,Female,,100
+76,DHARA,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Female,,100
+77,LADRON,Ladrón,32,,,,Male,,100
+78,MOTERO,Motero,32,,,,Male,,100
+79,ENFERMERA,Enfermera,32,,,,Female,,100
+80,POLICIA,Policía,32,,,,Male,,100
+81,OBRERO,Obrero,32,,,,Male,,100
+82,GUITARRISTA,Guitarrista,32,,,,Male,,100
+83,Paraguas,Chica Paraguas,32,,,,Female,,100
+84,OCUPADO,Señor ocupado,32,,,,Male,,100
+85,MACARRA,Macarra,32,,,,Male,,100
+86,CHICOGUAY,Chico Guay,32,,,,Male,,100
+87,CHICAGUAY,Chica Guay,32,,,,Female,,100
+88,MEDIUM,Médium,32,,,,Male,,100
+89,MEDIUMF,Médium,32,,,,Female,,100
+90,NADADORA,Nadadora,32,,,,Female,,100
+91,PESCADOR,Pescador,32,,,,Male,,100
+92,NADADOR,Nadador,32,,,,Male,,100
+93,NADADORA2,Nadadora,32,,,,Female,,100
+94,ROCKETO,Rocket,32,Rocket,,,Male,,100
+95,ROCKETA,Rocket,32,Rocket,,,Female,,100
+96,ATLAS,Rocket,32,Rocket,,,Female,,100
+97,FANTASMANIACA1,Fantasmaníaca,32,,,,Female,,100
+98,FANTASMANIACA2,Fantasmaníaca,32,,,,Female,,100
+99,FANTASMANIACA3,Fantasmaníaca,32,,,,Female,,100
+100,FANTASMANIACA4,Fantasmaníaca,32,,,,Female,,100
+101,FINALILLIANA,Entrenadora,32,Lilliana,,,Female,,100
+104,TERRORISTASUERTUDO,SHSL Luck,32,,,,Male,,100
+105,ELLIOT,Amigo,32,,,,Male,,100
+106,ARDILLO,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+107,OWENCHUNGO,Rival,60,,,,Male,,100
+108,BANDAROWLET,???,60,,,,Male,,100
+109,SIMON,Profesor,60,,,,Male,,100
+110,BEA,Alto Mando,60,Elite,LiderVictoria,,Female,,100
+111,NATASHA,Alto Mando,60,Elite,LiderVictoria,,Female,,100
+112,EDWARD,Alto Mando,60,Elite,LiderVictoria,,Male,,100
+113,ASTER,Alto Mando,60,Elite,LiderVictoria,,Male,,100
+114,SARA,Campeona,60,Champ,CampeonaWin,,Female,,100
+115,BAY,Líder de Gimnasio,60,LiderGimnasio,LiderVictoria,,Male,,100
+116,PRIMS,Entrenador con corazón partido,60,Prims,,,Male,,100
+117,JEREBUZO,Científico,60,vsJeremiah,,,Male,,100
+118,SIMON,Profesor,60,VS who,,,Male,,100
+119,OWENPARTNERFINAL,Entrenador,60,,,,Male,,100
